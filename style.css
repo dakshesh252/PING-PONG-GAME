@@ -1,0 +1,20 @@
+
+
+.heading{
+    width: 100%;
+    
+}
+
+.heading button {
+    float: right;
+    
+}
+
+.heading H3{
+    float: left;
+    display: inline;
+}
+
+#status{
+    background-color: white;
+}
