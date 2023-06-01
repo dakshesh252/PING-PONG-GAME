@@ -21,6 +21,10 @@ var ball = {
     dy:3
 }
 
+functio preload(){
+touch_sound = loadSound("ball_touch_paddel.wav");
+
+}
 function setup(){
   var canvas =  createCanvas(700,600);
 }
