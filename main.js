@@ -23,6 +23,7 @@ var ball = {
 
 functio preload(){
 touch_sound = loadSound("ball_touch_paddel.wav");
+missed_sound = loadSound("missed.wav");
 
 }
 function setup(){
